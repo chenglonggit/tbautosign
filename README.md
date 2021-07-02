@@ -1,7 +1,7 @@
 # tbautosign
 github actions 贴吧自动签到 nodejs 版
 
-## 用法
+## 用法1
 
 ## 1.fork 项目
 
